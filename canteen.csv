@@ -1,0 +1,21 @@
+Order_no.,item1,item2,item3,item4
+1,Tea, Samosa, Sandwich,
+2,Samosa, Tea, Sandwich, Noodles
+3,Samosa, Cold Coffee, French Fries,
+4,Pizza, Maggie,Samosa,Tea
+5,Maggie,Cold Coffee,Sandwich,
+6,Samosa,Cold Coffee,French Fries,
+7,Maggie,Cold Coffee,Noodles,
+8,Maggie,Samosa,Cold Coffee,Sandwich
+9,Pizza,Maggie,Samosa,Cold Coffee
+10,Samosa,Tea,,
+11,Black Tea,Manchurian,Sandwich,Noodles
+12,Black Tea,Manchurian,Sandwich,Noodles
+13,Black Tea,Fried Maggie,French Fries,
+14,Samosa,Black Tea,Manchurian,
+15,Samosa,Fried Maggie,Sandwich,
+16,Black Tea,Fried Maggie,Sandwich,
+17,Samosa,Fried Maggie,French Fries,
+18,Samosa,Black Tea,Fried Maggie,
+19,Samosa,Black Tea,Fried Maggie,
+20,Cold Coffee,Tea,Black Tea,Noodles
